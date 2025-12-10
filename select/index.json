@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Don't You Worry 'Bout A Thing (『シング』より)",
+  "base_artist": "Tori Kelly",
+  "createdAt": "2025-12-10T17:54:42.892211Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/01_Don't_You_Worry_'Bout_A_Thing_majiko.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout a Thing",
+      "artist": "Trijntje Oosterhuis",
+      "has_synced": false,
+      "path": "select/02_Don't_You_Worry_'Bout_a_Thing_Trijntje_Oosterhuis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout a Thing",
+      "artist": "SAM",
+      "has_synced": false,
+      "path": "select/03_Don't_You_Worry_'Bout_a_Thing_SAM.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't You Worry 'bout A Thing",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/04_Don't_You_Worry_'bout_A_Thing_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Stevie Wonder",
+      "has_synced": true,
+      "path": "select/05_Don't_You_Worry_'Bout_A_Thing_Stevie_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/06_Don't_You_Worry_'Bout_A_Thing_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Tori Kelly",
+      "has_synced": true,
+      "path": "select/07_Don't_You_Worry_'Bout_A_Thing_Tori_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don’t You Worry ‘bout A Thing",
+      "artist": "Olivia Ong",
+      "has_synced": false,
+      "path": "select/08_Don’t_You_Worry_‘bout_A_Thing_Olivia_Ong.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Tori Kelly",
+      "has_synced": true,
+      "path": "select/09_Don't_You_Worry_'Bout_A_Thing_Tori_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "John Legend",
+      "has_synced": true,
+      "path": "select/10_Don't_You_Worry_'Bout_A_Thing_John_Legend.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Weldon Irvine",
+      "has_synced": false,
+      "path": "select/11_Don't_You_Worry_'Bout_A_Thing_Weldon_Irvine.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout a Thing",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/12_Don't_You_Worry_'Bout_a_Thing_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't You Worry 'bout A Thing",
+      "artist": "Incognito",
+      "has_synced": true,
+      "path": "select/13_Don't_You_Worry_'bout_A_Thing_Incognito.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Wonder, Stevie",
+      "has_synced": true,
+      "path": "select/14_Don't_You_Worry_'Bout_A_Thing_Wonder,_Stevie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't You Worry 'Bout a Thing",
+      "artist": "Avera",
+      "has_synced": false,
+      "path": "select/15_Don't_You_Worry_'Bout_a_Thing_Avera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't You Worry 'Bout A Thing",
+      "artist": "Tori Kelly",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_You_Worry_'Bout_A_Thing_Tori_Kelly.txt"
+    }
+  ]
+}
